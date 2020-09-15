@@ -6,17 +6,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jules-peguet/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:julespeguet.jp@gmail.com)
 [![View](https://views.whatilearened.today/views/github/Jaden37/Jaden37.svg)](https://github.com/Jaden37)
-<!-- <img src="https://komarev.com/ghpvc/?username=jaden37" alt="jaden37" /> -->
+<img src="https://komarev.com/ghpvc/?username=jaden37" alt="jaden37" />
 
 - 🔭 I’m currently working on [Smart 4L](https://github.com/Smart4L/Smart4L) Project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🌱 I’m currently learning at [Epsi Nantes](https://epsi.fr)
+- 👯 I’m collaborate with [@cbarange](https://github.com/cbarange) for a lot of projects
+- 💬 Ask me about ReactJS, Javascript or anything you see in this page
+- 📫 How to reach me: checkout the links above
 
 <img align="right" src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
@@ -41,7 +37,7 @@
 
 ## My Current activities
 <div>
-    <a href="https://github.com/Smart4L/Smart4L">
+    <a href="https://github.com/Smart4L/Smart4L/">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Smart4L&repo=Smart4L" />
     </a>
 </div>
