@@ -41,8 +41,8 @@
     <a href="https://github.com/j-peguet/portfolio/">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j-peguet&repo=portfolio" />
     </a>
-    <a href="https://github.com/j-peguet/kubernetes-guide/">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j-peguet&repo=kubernetes-guide" />
+    <a href="https://github.com/Smart4L/Smart4L/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smart4L&repo=smart4L" />
     </a>
 </div>
 <br>
