@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Smart 4L](https://github.com/Smart4L/Smart4L) Project
 - 🌱 I’m currently learning at [Epsi Nantes](https://epsi.fr)
-- 👯 I’m collaborate with [@cbarange](https://github.com/cbarange) for a lot of projects
+- 👯 I’m collaborate with [@cbarange](https://github.com/cbarange) & [@aleageay](https://github.com/alegeay) for a lot of projects
 - 💬 Ask me about ReactJS, Javascript or anything you see in this page
 - 📫 How to reach me: checkout the links above
 
-<img align="right" src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align="right" src='dog.webp' width='200"'>
 
 ## Favorites technologies
 
