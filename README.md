@@ -3,7 +3,8 @@
 # I'm Jules Peguet, student developer.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/j-peguet)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jules-peguet/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j-peguet/)
+![Twitter Follow](https://img.shields.io/twitter/follow/j_peguet)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:julespeguet.jp@gmail.com)
 [![View](https://views.whatilearened.today/views/github/j-peguet/j-peguet.svg)](https://github.com/j-peguet)
 <img src="https://komarev.com/ghpvc/?username=j-peguet" alt="j-peguet" />
